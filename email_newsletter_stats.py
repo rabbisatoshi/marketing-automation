@@ -11,7 +11,7 @@ import pandas as pd
 import mysql.connector
 from mysql.connector import Error
 from datetime import datetime
-
+# comment for change
 # Function to fetch and process newsletter data
 def fetch_newsletter_data(api_key):
     # Prepare the headers with the bearer token
